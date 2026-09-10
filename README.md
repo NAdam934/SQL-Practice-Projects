@@ -6,3 +6,4 @@ Két népszerű adatbázist használtam a feladatok megoldására, melyeket csat
 A másik a Sakila adatbázis, mely filmeket, azoknak a bérlését és értékelését tartalmazza.
 Továbbá saját gyakorló adatbázisokat is létrehoztam "gyakszi" és "TEST" néven.
 
+A lekérdezéseket MySQL Workbench használatával írtam 
